@@ -141,7 +141,7 @@ VALUES
 (9, 9, 3, 3, 'sistema', 'Deposito alto monto'),
 (10, 10, 1, 1, 'admin', 'Registro final de operacion');
 
-SELECT * FROM CLIENTE
+
 SELECT * FROM CLIENTE
 SELECT * FROM CUENTA
 SELECT * FROM TRANSACCION
